@@ -1,4 +1,4 @@
 # practice
  A practice repository
 README
-internet.sociology.paper.html 
+hurricanes.football.schedule.html 
